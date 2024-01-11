@@ -1,6 +1,6 @@
-# [SWR website](https://swr.vercel.app)
+# [ChatQA website](https://docs.chatqa.app)
 
-The official website for [SWR](https://github.com/vercel/swr).
+The official website for [ChatQA](https://github.com/ChatQA/chatqa-docs).
 
 To develop locally, clone this repository and run the following command to start
 the local dev server:
