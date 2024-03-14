@@ -9,7 +9,7 @@ const Feature = ({ text, icon }) => (
 )
 
 const TITLE_WITH_TRANSLATIONS = {
-  'en-US': 'React Hooks for Data Fetching',
+  'en-US': 'ChatQA Cloud is a simple artificial intelligence large language model client tool',
   'es-ES': 'Biblioteca React Hooks para la obtención de datos',
   ru: 'React хуки для выборки данных'
 }
